@@ -1,0 +1,3 @@
+﻿  Daus.cpp
+E:\Cicle\Programació\UF3\TASQUES\Daus\Daus\Daus.cpp(12,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Daus.vcxproj -> E:\Cicle\Programació\UF3\TASQUES\Daus\x64\Debug\Daus.exe
